@@ -1,23 +1,18 @@
-# github-overvue
+# Github Overvue
 
-## Project setup
-```
-yarn install
-```
+## To start the project you can follow these steps :arrow_heading_down:
+```bash
+# Clone the repository
+$ git clone https://github.com/TiagoDiass/github-overvue.git
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Enter in the repository
+$ cd github-overvue
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Install the dependencies
+$ yarn install
 
-### Lints and fixes files
-```
-yarn lint
+# Run the app
+# yarn start
 ```
 
 ### Customize configuration
