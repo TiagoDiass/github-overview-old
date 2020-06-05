@@ -40,7 +40,6 @@ export default {
 }
 
 .container {
-  border: 1px solid red;
   padding: 40px;
   display: flex;
   justify-content: center;
