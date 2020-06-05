@@ -12,7 +12,7 @@ $ cd github-overvue
 $ yarn install
 
 # Run the app
-# yarn start
+$ yarn start
 ```
 
 ### Customize configuration
