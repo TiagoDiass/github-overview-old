@@ -5,7 +5,12 @@
       <h2>Github Overview</h2>
     </div>
     <div class="input-area">
-      <input v-model="githubUsername" type="text" placeholder="Github Username" />
+      <input
+        @keyup.enter="fetchUser"
+        v-model="githubUsername"
+        type="text"
+        placeholder="Github Username"
+      />
       <button @click="fetchUser">SEND</button>
     </div>
   </div>
@@ -42,6 +47,7 @@ export default {
               icon: "success",
               button: "Nice, thanks"
             });
+
             this.$emit("userHasBeenFound", this.userContent);
           }
         });
@@ -53,12 +59,15 @@ export default {
 <style scoped>
 .form {
   padding: 24px;
+  margin-top: 24px;
   width: 40%;
   min-width: 350px;
   height: 180px;
   background-color: var(--light-color);
   border-radius: 40px;
   box-shadow: 0 0 12px rgba(255, 255, 255, 0.2);
+  grid-column: 2/3;
+  grid-row: 1/2;
 }
 
 .form .form-header {
