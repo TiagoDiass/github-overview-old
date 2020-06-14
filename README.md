@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img width="30" src="https://raw.githubusercontent.com/TiagoDiass/github-overview/master/src/assets/images/GitHub-Mark-64px.png?token=AL2MXQL7N33RV74TJVZINXS64YZCO">
+  <img width="30" src="src/assets/images/GitHub-Mark-64px.png">
   Github Overview 
-  <img width="30" src="https://raw.githubusercontent.com/TiagoDiass/github-overview/master/src/assets/images/GitHub-Mark-64px.png?token=AL2MXQL7N33RV74TJVZINXS64YZCO">
+  <img width="30" src="src/assets/images/GitHub-Mark-64px.png">
 </h1>
 
 <h4 align="center">
