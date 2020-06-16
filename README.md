@@ -28,7 +28,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](Preview.gif)
 
 <h2 id="techonologies" name="technologies">
-  :rocket:&nbsp;&nbsp;Tecnologias utilizadas
+  :rocket: Tecnologias utilizadas
 </h2>
 
 - [Vue.js](https://br.vuejs.org) para a construção da aplicação como um todo
@@ -36,7 +36,7 @@
 - API do Github para obtenção dos dados
 
 <h2 id="objective" name="objective">
-  :dart:&nbsp;&nbsp;Objetivo do projeto
+  :dart: Objetivo do projeto
 </h2>
 
 Meu objetivo ao desenvolver esse projeto foi praticar os conceitos de Vue.js, tecnologia que comecei a aprender recentemente,
@@ -45,13 +45,13 @@ aquelas coisas, mas o que importa é o aprendizado), estou gostando muito de Vue
 nessa tecnologia!
 
 <h2 id="final-result" name="final-result">
-  :clipboard:&nbsp;&nbsp;Resultado final
+  :clipboard: Resultado final
 </h2>
 
 ### [Você pode ver o resultado final clicando aqui](https://github-overview-vue.herokuapp.com)
 
 <h2 id="how-to-use" name="how-to-use">
-  :information_source:&nbsp;&nbsp;&nbsp;&nbsp;Como rodar em sua máquina
+  :information_source: Como rodar em sua máquina
 </h2>
 
 Siga os passos abaixo para rodar o projeto em sua máquina, antes de tudo, você precisa ter o Git, Node.js e o Yarn instalado em seu computador,
